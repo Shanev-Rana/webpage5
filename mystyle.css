@@ -2,3 +2,10 @@ body{
   display: flex;
   justify-content: center;
   background:#ccccff
+
+);
+/* The rectangle in which to repeat.
+   It can be fully wide in this case */
+background-size: 100% 20px;
+
+}
